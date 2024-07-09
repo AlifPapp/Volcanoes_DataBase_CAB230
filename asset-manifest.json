@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Volcanoes_DataBase_CAB230/static/css/main.d3fd2d98.css",
+    "main.js": "/Volcanoes_DataBase_CAB230/static/js/main.dcc770fa.js",
+    "index.html": "/Volcanoes_DataBase_CAB230/index.html",
+    "main.d3fd2d98.css.map": "/Volcanoes_DataBase_CAB230/static/css/main.d3fd2d98.css.map",
+    "main.dcc770fa.js.map": "/Volcanoes_DataBase_CAB230/static/js/main.dcc770fa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d3fd2d98.css",
+    "static/js/main.dcc770fa.js"
+  ]
+}
